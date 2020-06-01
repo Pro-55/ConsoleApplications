@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 
 public class CatDog {
- 
+
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     boolean shouldRepeat = true;
